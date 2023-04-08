@@ -1,0 +1,61 @@
+.service-box-mlops {
+    margin-bottom: 30px;
+    left: 426px;
+    margin-top: 30px;;
+}
+.service-box-mlops i {
+    font-size: 36px;
+    left: 0px;
+    padding-bottom: 100px;
+}
+.service-box-mlops div:last-child {
+    padding-left: 66px;
+    padding-top: 90px;
+}
+.service-box-mlops div:first-child {
+    float: left;
+    width: 36px;
+    padding-top: 100px;
+}
+
+
+.service-box-eng i {
+    font-size: 36px;
+    left: 1px;
+    padding-bottom: 100px;
+}
+.service-box-eng div:last-child {
+    padding-left: 66px;
+    padding-top: 0px;
+}
+.service-box-eng div:first-child {
+    float: left;
+    width: 36px;
+}
+.service-box-eng {
+    margin-bottom: 30px;
+    margin-top: 30px;
+    left: 0px;
+}
+
+
+.service-box-mlops > div:nth-of-type(2) p {
+    font-size: 20px;
+}
+.service-box-eng > div:nth-of-type(2) p {
+    font-size: 20px;
+}
+.service-box > div:nth-of-type(2) p {
+    font-size: 20px;
+}
+
+
+.service-box-mlops > div:nth-of-type(2) h3 {
+    font-size: 2em;
+}
+.service-box-eng > div:nth-of-type(2) h3 {
+    font-size: 2em;
+}
+.service-box > div:nth-of-type(2) h3 {
+    font-size: 2em;
+}

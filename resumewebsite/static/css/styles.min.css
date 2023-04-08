@@ -290,37 +290,7 @@ li {
     font-size: 36px;
     left: 1px;
 }
-.service-box-eng i {
-    font-size: 36px;
-    left: 1px;
-    padding-bottom: 100px;
-}
-.service-box-eng div:last-child {
-    padding-left: 66px;
-    padding-top: 0px;
-}
-.service-box-eng div:first-child {
-    float: left;
-    width: 36px;
-}
-.service-box-mlops {
-    margin-bottom: 30px;
-    left: 426px
-}
-.service-box-mlops i {
-    font-size: 36px;
-    left: 0px;
-    padding-bottom: 100px;
-}
-.service-box-mlops div:last-child {
-    padding-left: 66px;
-    padding-top: 90px;
-}
-.service-box-mlops div:first-child {
-    float: left;
-    width: 36px;
-    padding-top: 100px;
-}
+
 .service-box div:last-child {
     padding-left: 66px;
 }
