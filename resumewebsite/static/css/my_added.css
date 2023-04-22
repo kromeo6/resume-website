@@ -59,3 +59,12 @@
 .service-box > div:nth-of-type(2) h3 {
     font-size: 2em;
 }
+
+<!-- new section -->
+
+.abc h2 {
+    left: 260px;
+    margin-top: 400px;
+
+}
+
