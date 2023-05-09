@@ -42,8 +42,8 @@ a:hover{
 	background: #9c27b0;
 	text-align: center;
 	height: 100%;
-	left: 60px;
-	width: 400px;
+    left: 60px;
+	/*width: 400px;*/
 }
 .toggle-btn {
     background: #141414 none repeat scroll 0 0;
