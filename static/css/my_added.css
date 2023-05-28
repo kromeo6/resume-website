@@ -74,10 +74,20 @@
 
 .abc h2 {
     left: 260px;
-    margin-top: 400px;
+    margin-top: 40px;
 
 }
 
 .tasks-list li {
 list-style:outside;
+}
+
+.topics li {
+list-style:outside;
+font-size: 1.5em;
+
+}
+
+.topics {
+padding-bottom: 10px;
 }
