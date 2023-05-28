@@ -78,3 +78,6 @@
 
 }
 
+.tasks-list li {
+list-style:outside;
+}
